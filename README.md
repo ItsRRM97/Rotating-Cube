@@ -2,7 +2,7 @@
 
 A 3-D Rotating Cube using Trigonometry to determine the initial &amp; final position of each of the 8 Points in JavaScript
 
-Problem Statement:
+##Problem Statement:
 
 Rotating Cube wireframe: Draw a 3D Cube wireframe and rotate it along the axes that passes through its center. The rotating object should decelerate at a rate of ‘X’ degrees/sec^2 before it comes to a standstill.
 
@@ -16,3 +16,7 @@ rotation and swipe with the friction factor Y.
 Touch
 /Click
  generates friction that should decelerate the rotation further by a Y (friction factor)
+
+## How to Run:
+
+Download/Clone the files and open cube.html in a browser.
